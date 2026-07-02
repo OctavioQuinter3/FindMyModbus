@@ -60,3 +60,9 @@ python main.py
 
 Python 3.10+ | customtkinter | pymodbus | pyserial
 
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind.
+We are not responsible for any damage or data loss.
+Use at your own risk.
+
