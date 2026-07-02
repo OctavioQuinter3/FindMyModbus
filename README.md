@@ -14,7 +14,7 @@ Modbus RTU/TCP device scanner built with Python + CustomTkinter.
 
 ## Recommended hardware
 
-- USB-to-RS-485 converter (CH340 + MAX485 + protection)
+USB-to-RS-485 converter (CH340 + MAX485 + protection)
 
 ### Wiring
 
