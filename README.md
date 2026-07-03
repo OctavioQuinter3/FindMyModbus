@@ -30,10 +30,12 @@ USB-485 dongle                Bus RS-485
 - 120 Ohm termination at bus ends
 - Max distance: ~1200 m @ 9600 baud
 
-## Quick start (portable .exe)
+## Quick start
 
-1. Download dist/FindMyModbus/
-2. Run FindMyModbus.exe
+Download the latest release from GitHub:
+https://github.com/OctavioQuinter3/FindMyModbus/releases/tag/v1.0.0
+
+Extract the `.zip` and run `FindMyModbus.exe`
 
 ## From source
 
